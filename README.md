@@ -35,6 +35,14 @@ I run [Berkoding](https://berkoding.com), a software house in Jakarta for startu
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
+## Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/withabdul/withabdul/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/withabdul/withabdul/output/snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/withabdul/withabdul/output/snake-dark.svg" />
+</picture>
+
 ## Work with me
 
 Tell me what you're building and where it hurts:
